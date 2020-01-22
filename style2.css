@@ -1,0 +1,15 @@
+.tebal {
+    font-weight: bold;
+}
+.miring {
+    font-style: italic;
+}
+.ukuran-kecil {
+    font-size: 12px;
+}
+.ukuran-sedang {
+    font-size: 20px;
+}
+.ukuran-besar {
+    font-size: 40px;
+}
