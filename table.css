@@ -7,7 +7,7 @@
 .table tr {
     background-color: antiquewhite;
 }
-.table td {
+.table td, .table th {
     border: 1px solid;
     padding-left: 5px;
 }
